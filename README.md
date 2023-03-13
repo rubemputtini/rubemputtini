@@ -1,8 +1,8 @@
 <h1 align="center">Rubem Puttini</h1>
-I'm a Fullstack Developer with a passion for building scalable web applications. I have experience with Java, JavaScript, React, Node.js, and Spring, as well as databases and cloud services. I'm a problem solver, fast learner, team player and I enjoy exercising and reading in my free time.
+I'm a Fullstack Developer with a passion for building scalable web applications. I have experience with Java, JavaScript, React, Node.js, and Spring, as well as databases and cloud services. I'm a problem solver, fast learner, team player and I enjoy exercising and reading in my free time. 😄
 
 <br><br>
-If you have a project in mind or just want to say hello, feel free to contact me using the links below. I'm always happy to chat about development, learn new things, share my knowledge and see how I can help bring your ideas to life. Let's create something great together!
+If you have a project in mind or just want to say hello, feel free to contact me using the links below. I'm always happy to chat about development, learn new things, share my knowledge and see how I can help bring your ideas to life. Let's create something great together! 👊🏻
 
 <br>
 
