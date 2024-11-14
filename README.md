@@ -1,5 +1,5 @@
 <h1 align="center">Rubem Puttini</h1>
-I'm a Fullstack Developer with a passion for building scalable web applications. I have experience with C#, Java, JavaScript, React, Node.js, and Spring, as well as databases and cloud services. I'm a problem solver, fast learner, team player and I enjoy exercising and reading in my free time. 😄
+Software Developer with a strong interest in specializing in backend development using <b>C#, .NET, SQL Server, and cloud technologies like Azure.</b> I bring a backend foundation combined with frontend skills in <b>JavaScript, React, and Node.js.</b> 😄
 
 <br><br>
 If you have a project in mind or just want to say hello, feel free to contact me using the links below. I'm always happy to chat about development, learn new things, share my knowledge and see how I can help bring your ideas to life. Let's create something great together! 👊🏻
@@ -18,24 +18,20 @@ If you have a project in mind or just want to say hello, feel free to contact me
 
 <h2 align="center">Tech Stack:</h2>
 <div align="center" style="display: inline_block">
-  <img align="center" alt="C#" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-  <img align="center" alt="Java" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
-  <img align="center" alt="JavaScript" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-  <img align="center" alt="Typescript" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg">
-  <img align="center" alt="React" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">
-  <img align="center" alt="HTML" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="mySQL" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="Spring" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg">
-  <img align="center" alt="Node.js" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+  <img align="center" alt="C#" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"> 
+  <img align="center" alt=".NET" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg"> 
+  <img align="center" alt="SQL Server" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg"> 
+  <img align="center" alt="JavaScript" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"> 
+  <img align="center" alt="React" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"> 
+  <img align="center" alt="Node.js" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"> 
+  <img align="center" alt="Azure DevOps" height="45" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg">
 </div>
 
 <hr>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubemputtini&layout=compact" alt="Top Languages"><br><br>
   <div style="display: flex; justify-content: center; align-items: center;">
-  <img src="https://github-readme-stats.vercel.app/api?username=rubemputtini&show_icons=true&theme=gruvbox" alt="GitHub Stats" style="border: 2px solid #4e4e4e; border-radius: 8px; margin-right: 10px;">
+  <img src="https://gh-readme-profile.vercel.app/api?username=rubemputtini&theme=apprentice&hide=issues&border_width=0.5&border_radius=1.4" alt="GitHub Stats" style="border: 2px solid #4e4e4e; border-radius: 8px; margin-right: 10px;">
   <img src="https://github.r2v.ch/codewars?user=rubemputtini&stroke=%23BB432C" alt="Codewars" style="border: 2px solid #4e4e4e; border-radius: 8px;">
 </div>
   <a href="https://leetcode.com/rubemputtini" target="_blank"><img src="https://leetcard.jacoblin.cool/rubemputtini" alt="Leetcode Stats"></a>
